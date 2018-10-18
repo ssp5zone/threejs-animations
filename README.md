@@ -1,4 +1,4 @@
-# Canvas Animations using Three.js
+# Canvas WebGL Animations using Three.js
 
 A bunch of simple animations written in three.js
 
